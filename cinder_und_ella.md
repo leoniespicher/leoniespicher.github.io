@@ -1,15 +1,8 @@
-Titel:Cinder und Ella 
-
-Autorin :Kelly Oram 
-
-Verlag :One 
-
-Erscheinungsdatum :26.09.2018 
-
-Genre :Vorlesebücher, Märchen, Saga, Reime & Lieder 
-
-Seitenanzahl :442 Seiten 
-
+---
+title: Bücher-Rezensionen
+layout: books
+permalink: /buch_eins/
+---
  
 #Charaktere
 ##Ellamara   
