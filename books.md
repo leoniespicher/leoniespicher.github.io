@@ -1,6 +1,7 @@
 ---
 title: Bücher-Rezensionen
-layout: default
+layout: books
 permalink: /books/
 ---
+{% include nav.html %}
 hallo papi 2
