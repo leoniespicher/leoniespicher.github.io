@@ -1,0 +1,6 @@
+layouts_dir   : _layouts
+includes_dir: _includes
+data_dir: _data
+
+encoding: utf-8
+markdown_ext: markdown,mkdown,mkdn,mkd,md
