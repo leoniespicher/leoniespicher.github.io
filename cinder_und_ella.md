@@ -4,15 +4,15 @@ layout: books
 permalink: /buch_eins/
 ---
  
-#Charaktere
-##Ellamara   
+# Charaktere
+## Ellamara   
 Ihr Vater hat sie und ihre Mutter schon früh verlassen und sie leben seither
  alleine. Sie liebt es zu lesen und hat ihren eigenen Blog. 
 
-##Brian Oliver 
+## Brian Oliver 
 Er ist Schauspieler, mag teure Autos. Sein Vater ist ein bekannter Regisseur
 . Sein Leben ist ziemlich verrückt.
-#Zusammenfassung
+# Zusammenfassung
 Durch einen plötzlichen Schicksalsschlag muss Ella zu ihrem Vater und dessen
  neue Familie ziehen. Sie bricht den Kontakt zu ihren alten Freunden ab
  . Jedoch vermisst sie ihr altes leben und beschließt, mit ihrem Chat Freund
@@ -24,13 +24,11 @@ Durch einen plötzlichen Schicksalsschlag muss Ella zu ihrem Vater und dessen
 
  
  #Rezension
-
 Ich mag die Figur von Ella, da sie nie aufgibt. Die Geschichte ist eigentlich
  realistisch, jedoch spielen auch viele Zufälle mit. Es könnte auch ein M
  ärchen sein. Es ist eine sehr moderne und zeitgemässe Version von einem M
  ärchen.  
 
- 
 
 Die Geschichte ist immer aus der Sicht der beiden Hauptpersonen geschrieben
  und so ist man sehr nahe am Geschehen dran und die Gefühle der Beiden sind
